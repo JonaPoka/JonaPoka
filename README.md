@@ -10,11 +10,10 @@ I build apps, systems & developer tools across web, AI, realtime & game tech.
 - game-related projects  
 
 ## 🧰 Tech stack
-**Languages:** TypeScript, JavaScript, Python, C++  
+**Languages:** TypeScript, JavaScript, Python, C++, Java 
 **Web:** React, Next.js, Node.js  
 **Backend:** REST APIs, WebSockets, PostgreSQL  
 **Infra:** Docker, Linux, GitHub Actions  
-**Other:** realtime systems, automation, tooling
 
 ## 📌 Currently working on
 ### 🌐 jonapoka.lol website
@@ -26,3 +25,8 @@ Fullstack platform combining portfolio, tools & services
 Rhythm game with a custom phone → PC control system  
 → realtime networking, input handling & gameplay systems  
 → experimental game tech & tooling
+
+### SleekNote
+Native Linux notetaking without unnecessary performance hindering slop
+→ C++ + Qt6 Native Linux development
+→ Desktop applications
